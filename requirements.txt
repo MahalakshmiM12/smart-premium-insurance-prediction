@@ -1,0 +1,12 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+xgboost
+DecisionTree
+RandomForest
+LinearRegression
+mlflow
+streamlit
+joblib
